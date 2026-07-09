@@ -155,5 +155,5 @@ This repository was built and executed end-to-end before publishing:
 ## License
 MIT — see `LICENSE`.
 
-[Dashboard](PhonePe_Executive_Dashboard-2.pdf)
+![Dashboard](Dashboard/PhonePe_Executive_Dashboard-2_1.png)
 
