@@ -1,0 +1,18 @@
+# Core data + ETL
+pandas>=2.0
+numpy>=1.24
+SQLAlchemy>=2.0
+
+# Database drivers
+PyMySQL>=1.1          # MySQL 8 (production)
+# sqlite3 is part of the Python standard library (portable dev backend)
+
+# Dashboard & visualisation
+streamlit>=1.30
+plotly>=5.18
+
+# Reporting (PDF export)
+reportlab>=4.0
+
+# HTTP (optional: pulling the real PhonePe Pulse repo)
+requests>=2.31
